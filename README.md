@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
-- 👨‍💻 All of my projects are available at [dewansh-shukla.vercel.app](dewansh-shukla.vercel.app)
+- 👨‍💻 All of my projects are available at [dewansh-shukla.vercel.app]([dewansh-shukla.vercel.app](https://dewansh-shukla.vercel.app/))
 
 - 💬 Ask me about **react, Nodejs, solidity**
 
