@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dewansh Shukla</h1>
-<h3 align="center">I'm a full stack(MERN) developer</h3>
+<h3 align="center">I'm a full stack developer</h3>
 
-- 🔭 I’m currently working on [stake._.play](https://youtu.be/qqJmqzqtbzU)
+
 
 - 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
-- 👨‍💻 All of my projects are available at [dewansh-shukla.vercel.app]([dewansh-shukla.vercel.app](https://dewansh-shukla.vercel.app/))
-
-- 💬 Ask me about **react, Nodejs, solidity**
+- 💬 Ask me about **react, Nodejs, vue, next, graphql solidity**
 
 - 📫 How to reach me **dewanshshukla2002@gmail.com**
 
